@@ -1,10 +1,10 @@
-# FH_DSA_Final
+# **FH_DSA_Final**
 
-## Usage
-### Run the Program
+## **Usage**
+### _Run the Program_
 After running the program, you'll be presented with a menu of options. Select any option by entering its corresponding number.
 
-### Features in Detail
+### _Features in Detail_
 1. **Show Traffic Network**  
    Visualizes the network as a graph with intersections (nodes) and roads (edges).  
    **Example:**  
@@ -70,7 +70,7 @@ After running the program, you'll be presented with a menu of options. Select an
 10. **Exit**  
     Saves and exits the program.
 
-## Testing Features
+## **Testing Features**
 - **Display the Traffic Network:**  
   Run the program and select Option 1. Verify that the network graph matches the input data.
 
